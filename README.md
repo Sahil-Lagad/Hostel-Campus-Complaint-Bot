@@ -35,16 +35,6 @@ Python, Streamlit, Groq API, Pandas, CSV, python-dotenv.
    streamlit run app.py
    ```
 
-## Setup (Linux/macOS)
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-cp .env.example .env
-# Edit .env and add your API key
-streamlit run app.py
-```
-
 ## How to use
 - Submit tab: fill student name, location/room, and complaint description.
 - The app classifies the complaint and displays its generated ID.
