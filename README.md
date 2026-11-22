@@ -1,5 +1,6 @@
-# Hostel & Campus Complaint Bot (Roll No. 17)
+# Hostel & Campus Complaint Bot 
 
+Mini Project made by Sahil Lagad , Roll no. 17 , Class - Ty Core - 3   
 A Streamlit application for students to submit hostel/campus complaints. The LLM classifies the complaint category, urgency, and short summary. Python generates a unique complaint ID and stores records in CSV.
 
 ## Features
